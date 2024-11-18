@@ -1,1 +1,1 @@
-Atividades práticas e Roteiros realizados na disciplina **Laboratório de Organização e Arquitetura de Computadores**, ministrada pela professora **Joseana Macedo** no período 2023.1!
+Atividades práticas e Roteiros realizados na disciplina **Laboratório de Organização e Arquitetura de Computadores**, ministrada pela professora **Joseana Macedo** no período 2023.1, sendo o nosso primeiro contato com linguagem de baixo nível (Assembly e SystemVerilog)!
